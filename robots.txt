@@ -1,0 +1,6 @@
+# robots.txt for Puvi Programming Language website
+
+User-agent: *
+Allow: /
+
+Sitemap: https://puvilang.in/sitemap.xml
